@@ -13,6 +13,8 @@
  fetchRequest.fetchLimit = 30    // how many data you want in one request
  fetchRequest.fetchOffset = 0    // for pagination in requested data
  */
+// for fetching sorting with custom search and filters.
+// https://code.tutsplus.com/tutorials/core-data-and-swift-relationships-and-more-fetching--cms-25070 
 
 
 import UIKit
